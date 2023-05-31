@@ -7,4 +7,4 @@ A mockup for the site was provided as well as an additional mockup which include
 
 #### Visit my final site: https://jubalclary.github.io/excursion/
 
-#### Compare my final site to the provided example: https://content.codecademy.com/programs/freelance-one/excursion/index.html?_gl=1*19qdekd*_ga*MzYzODE1ODA1My4xNjgyNTUyMjE3*_ga_3LRZM6TM9L*MTY4NTU1MjIzMS4zNC4xLjE2ODU1NTIyMzQuNTcuMC4w#
+#### Compare my final site to the provided example: https://shorturl.at/mAGO4
