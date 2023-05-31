@@ -5,6 +5,6 @@ This project is part of the "Learn Git and Github" course on Codecademy. HTML an
 
 A mockup for the site was provided as well as an additional mockup which included instructions for styling. An example of the finished website was also provided for reference. 
 
-#### Visit my final site: https://jubalclary.github.io/excursion/
+#### Visit my final site: https://jubalclary.github.io/Excursion/
 
 #### Compare my final site to the provided example: https://shorturl.at/mAGO4
